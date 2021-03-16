@@ -20,7 +20,7 @@ def bubble_sort_by(arr)
   switched = false
   unless switched
     (arr.length - 1).times do |i|
-      if arr[i].length - arr[i + 1].length > 0
+      if (arr[i].length - arr[i + 1].length).positive ?
         arr[i], arr[i + 1] = arr[i + 1], arr[i]
         switched = true
       end
@@ -29,6 +29,6 @@ def bubble_sort_by(arr)
   arr
 end
 
-data1 = %w["coke","me","these", 'pepperoni']
+data1 = %w[coke, me, these, pepperoni]
 
 p bubble_sort_by(data1)
