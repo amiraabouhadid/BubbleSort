@@ -50,9 +50,9 @@ Clone repository from github to your local drive using git clone command:
 
 👤 FELIX VONDEE
 
-- GitHub: [@amiraabouhadid](https://github.com/)
-- Twitter: [@AbouhadidAmira](https://twitter.com/)
-- LinkedIn: [amira-abouhadid](https://linkedin.com/)
+- GitHub: [@felix-vondee](https://github.com/felix-vondee)
+- Twitter: [@felix_vondee](https://twitter.com/felix_vondee)
+- LinkedIn: [Felix Vondee](https://linkedin.com/)
 
 
 ## 🤝 Contributing
