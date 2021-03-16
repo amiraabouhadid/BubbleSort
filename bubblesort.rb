@@ -12,10 +12,7 @@ def bubble_sort(arr)
   arr
 end
 
-data = [1, 89, 4, 43, 9]
-p bubble_sort(data)
-
-def bubble_sort_by(arr)
+def bubble_sort_block(arr)
   loop do
     switched = false
     (arr.length - 1).times do |i|
@@ -30,8 +27,6 @@ def bubble_sort_by(arr)
   arr
 end
 
-data1 = %w[hiya h hey hello hi]
-
-p bubble_sort_by(data1) { |left, right|
-  left.length <=> right.length
-}
+def bubble_sort_by(arr)
+  p bubble_sort_block(arr) { |left, right| left.length <=> right.length }
+end
