@@ -4,15 +4,12 @@
 
 We were asked to implement the bubble sort algorithm through the use of yield and passing a block to a method.
 
-
-
 ## Built With
 
 - Ruby
 - Ruby-build
 - Pry-byebug
 - Atom text and code editor
-
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
