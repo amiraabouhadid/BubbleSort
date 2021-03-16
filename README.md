@@ -13,11 +13,6 @@ We were asked to implement the bubble sort algorithm through the use of yield an
 - Pry-byebug
 - Atom text and code editor
 
-## Live Demo
-
-[Live Demo Link]()
-
-
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
