@@ -13,7 +13,6 @@ def bubble_sort(arr)
 end
 
 data = [1, 89, 4, 43, 9]
-
 p bubble_sort(data)
 
 def bubble_sort_by(arr)
