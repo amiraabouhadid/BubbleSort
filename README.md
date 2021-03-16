@@ -4,8 +4,6 @@
 
 We were asked to implement the bubble sort algorithm through the use of yield and passing a block to a method.
 
-
-
 ## Built With
 
 - Ruby
