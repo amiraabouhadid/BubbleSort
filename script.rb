@@ -20,7 +20,7 @@ def bubble_sort_by(arr)
   switched = false
   unless switched
     (arr.length - 1).times do |i|
-      if (arr[i].length - arr[i + 1].length).positive ?
+       if (arr[i].length - arr[i + 1].length).positive?
         (arr[i], arr[i + 1] = arr[i + 1], arr[i];
         switched = true):
         switched= false
