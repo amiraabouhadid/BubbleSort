@@ -12,6 +12,6 @@ def bubble_sort(arr)
   arr
 end
 
-data1 = [1, 89, 4, 43, 9]
+data = [1, 89, 4, 43, 9]
 
-p bubble_sort(data1)
+p bubble_sort(data)
